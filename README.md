@@ -1,10 +1,14 @@
 <p align="center">
   <a href="https://uii.ac.id/" target="blank">
-    <img src="https://www.uii.ac.id/wp-content/uploads/2020/02/UII-Web-Logo-450x155.png" height="70px" alt="UII Logo"/>
+    <img src="https://www.uii.ac.id/wp-content/uploads/2020/02/UII-Web-Logo-450x155.png" height="70px" alt="Universitas Islam Indonesia"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://apnic.foundation" target="blank">
-    <img src="https://apnic.foundation/wp-content/uploads/2023/04/Foundation-logo.png" height="70px" alt="APNIC Logo"/>
+    <img src="https://apnic.foundation/wp-content/uploads/2023/04/Foundation-logo.png" height="80px" alt="APNIC"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ipv6indonesia.id" target="blank">
+    <img src="https://ipv6.uii.id/wp-content/uploads/2022/08/ISIF_red-copy2.png" height="60px" alt="IPv6 Indonesia"/>
   </a>
 </p>
 
